@@ -10,6 +10,7 @@ Chosen line (after drafting several candidates):
 Why this one: it covers all three accidents in a single breath, then
 lands the twist — the agent is not sorry at all, it wants a promotion.
 Flat cheer, total obliviousness, very much an AI agent's voice.
+Checked: 129 characters, inside the 1–159 gate.
 """
 
 import os
